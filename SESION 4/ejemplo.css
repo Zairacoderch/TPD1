@@ -1,0 +1,12 @@
+body {
+    font-family:  "Lucida Console", "Courier New", monospace;
+
+h1 {
+    font-weight: lighter;
+}
+
+h2 {
+    color: rgb(166, 255, 0);
+    font-size: 10pt;
+}
+
